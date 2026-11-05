@@ -1,16 +1,14 @@
-## Hi there 👋
+# Fahbin Jareer
 
-<!--
-**Fahbinn/Fahbinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech CSE student at Lovely Professional University
 
-Here are some ideas to get you started:
+## About Me
+I am specializing in Cloud Computing and Generative AI. I am interested in how these technologies can be used to build useful applications and solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Interests
+- Cloud computing
+- Generative AI
+- Software and AI engineering
+
+## Current Focus
+Building my computer science foundations and learning more about programming, cloud platforms, and artificial intelligence.
